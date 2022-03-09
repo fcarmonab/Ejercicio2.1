@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:ffimageloadingsvg="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+             x:Class="EjercicioDosPuntoUno.Views.CountriesPage">
+
+    <StackLayout>
+        <Picker x:Name="PicketCountries"  SelectedIndexChanged="OnPickerSelectedIndexChanged" Title="Seleccione un Continente" FontSize="16"
+                ItemsSource="{Binding Regioneslist}" 
+                ItemDisplayBinding="{Binding value}"
+                SelectedItem="{Binding SelectedRegion}" HorizontalOptions="Center" WidthRequest="300"/>
+
+        <ListView x:Name="listaPaises"  HasUnevenRows="True" SeparatorVisibility="None" Margin="1" ItemSelected="lstPersonas_ItemSelected" >
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell >
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions >
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <ffimageloading:CachedImage  Source="{Binding flags.png}"
+                                            LoadingPlaceholder = "Flag"
+                                            ErrorPlaceholder= "Error"
+                                            Margin="3"
+                                            CacheDuration= "10"
+                                            RetryCount= "5"
+                                            RetryDelay= "100"
+                                            WidthRequest="100"
+                                            DownsampleToViewSize = "true"
+                                            Grid.Column="0"
+                                            Grid.Row="0"/>
+
+                            <Label x:Name="nombreTxt" Text="{Binding name.common}" HeightRequest="50" FontSize="12" HorizontalOptions="Start" VerticalOptions="Center" Grid.Column="1" Grid.Row="0"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+      
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,17 @@
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\bin\Debug\netstandard2.0\EjercicioDosPuntoUno.deps.json
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\bin\Debug\netstandard2.0\EjercicioDosPuntoUno.dll
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\bin\Debug\netstandard2.0\ref\EjercicioDosPuntoUno.dll
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\bin\Debug\netstandard2.0\EjercicioDosPuntoUno.pdb
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\EjercicioDosPuntoUno.GeneratedMSBuildEditorConfig.editorconfig
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\Views\CountriesPage.xaml.g.cs
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\Views\MapsPage.xaml.g.cs
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\EjercicioDosPuntoUno.AssemblyInfoInputs.cache
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\EjercicioDosPuntoUno.AssemblyInfo.cs
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\EjercicioDosPuntoUno.csproj.CoreCompileInputs.cache
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\XamlC.stamp
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\EjercicioDosPuntoUno.dll
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\ref\EjercicioDosPuntoUno.dll
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\EjercicioDosPuntoUno.pdb
+E:\movil2\CursoXamarin\EjercicioDosPuntoUno\EjercicioDosPuntoUno\EjercicioDosPuntoUno\obj\Debug\netstandard2.0\EjercicioDosPuntoUno.csproj.AssemblyReference.cache

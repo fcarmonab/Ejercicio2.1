@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5C7hwcBYTIduqF+xDqzNoq6JHb4mGhd5gxERAaWisU3keqnakxhXfKDn5pyyDS3m9tnHqCp/84dKHMVkI0GNQ==",
+  "success": true,
+  "projectFilePath": "E:\\movil2\\CursoXamarin\\EjercicioDosPuntoUno\\EjercicioDosPuntoUno\\EjercicioDosPuntoUno\\EjercicioDosPuntoUno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Familia\\.nuget\\packages\\libphonenumber-csharp\\8.12.43\\libphonenumber-csharp.8.12.43.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\skiasharp\\1.68.0\\skiasharp.1.68.0.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xamarin.ffimageloading\\2.4.11.982\\xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xamarin.ffimageloading.forms\\2.4.11.982\\xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xamarin.ffimageloading.svg\\2.4.11.982\\xamarin.ffimageloading.svg.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xamarin.ffimageloading.svg.forms\\2.4.11.982\\xamarin.ffimageloading.svg.forms.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xamarin.ffimageloading.transformations\\2.4.11.982\\xamarin.ffimageloading.transformations.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2337\\xamarin.forms.maps.5.0.0.2337.nupkg.sha512"
+  ],
+  "logs": []
+}
